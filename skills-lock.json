@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "openai-agents-sdk": {
+      "source": "laguagu/claude-code-nextjs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/openai-agents-sdk/SKILL.md",
+      "computedHash": "53abb53f7e4338a4babaa837fb51757f7f25e25bbf48b58c22919f47a7c5c2ca"
+    }
+  }
+}
